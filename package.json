@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://cgoatni.github.io/portfolio",
+  "homepage": "https://github.com/cgoatni/portfolio.git",
   "dependencies": {
     "gh-pages": "^5.0.0"
   }
